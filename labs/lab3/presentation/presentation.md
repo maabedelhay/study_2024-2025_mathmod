@@ -1,15 +1,14 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Структура научной презентации
-subtitle: Простейший шаблон
+title: Лабораторная работа № 3
+subtitle: Модель боевых действий
 author:
-  - Кулябов Д. С.
+  - Абд эль хай М.
 institute:
   - Российский университет дружбы народов, Москва, Россия
-  - Объединённый институт ядерных исследований, Дубна, Россия
-date: 01 января 1970
-
+date: 24 февраля 2024
+mainfont: "Times New Roman"
 ## i18n babel
 babel-lang: russian
 babel-otherlangs: english
@@ -27,7 +26,7 @@ header-includes:
  - '\beamer@ignorenonframefalse'
  - '\makeatother'
 ---
-
+<!-- 
 # Информация
 
 ## Докладчик
@@ -48,7 +47,7 @@ header-includes:
 ![](./image/kulyabov.jpg)
 
 :::
-::::::::::::::
+:::::::::::::: -->
 
 # Вводная часть
 
